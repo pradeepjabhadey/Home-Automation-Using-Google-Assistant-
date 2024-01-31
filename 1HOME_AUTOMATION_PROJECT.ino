@@ -12,16 +12,16 @@
 
 #include <map>
 
-#define WIFI_SSID         "LAPTOP-KVFVUJ3T 3831"    
-#define WIFI_PASS         "8A81>z29"
-#define APP_KEY           "ff162afe-434c-4032-9471-a16f77fc9f92"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "edf22fea-e7c9-4af4-9268-b751566a92e5-37156987-2c9d-445a-ac7d-8ac3ac6e7f9d"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define WIFI_SSID         "wifi name"    
+#define WIFI_PASS         "wifi passsword"
+#define APP_KEY           "ff162afe-xxxxxxx4c-4032-9471-sr3534646467"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "edf22feaxxxxc9-4af4-9268-b751xxxxxxxxxxxxxx"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
 
 //Enter the device IDs here
 #define device_ID_1   "xxxxxxxxxxxxxxxxxxxxxxxx"
-#define device_ID_2   "63173ccd36b44d06d4b48304"
-#define device_ID_3   "63173c8c36b44d06d4b48224"
-#define device_ID_4   "63173c63fa69c39e7cc3188e"
+#define device_ID_2   "63xxxxxxxxxxxxxxxxxxxxxxx"
+#define device_ID_3   "6xxxxxxxxxxxxxxxxxxxxxxxx"
+#define device_ID_4   "6xxxxxxxxxxxxxxxxxxxxxxxe"
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 5  //D1
